@@ -1,5 +1,5 @@
 # 💫 About Me:
-👾 Ethical Hacker | Penetration Tester | Cyber Nerd<br><br>Living in the shadows of the terminal, I break, build, and secure systems. Specialized in offensive security—reverse shells, keyloggers, and bypassing defenses. Python is my weapon, Kali is my battleground. Always pushing boundaries in the cyber realm, ethically but dangerously close.<br><br>👨‍💻 Current Focus:<br><br>Red teaming & malware simulations<br>Advanced Windows & Linux security testing<br>Building ruthless automation tools<br>🔒 Hack the system. Protect the system.
+👾 Ethical Hacker | Penetration Tester | Cyber Nerd<br><br>Living in the shadows of the terminal, I break, build, and secure systems. Specialized in offensive security reverse shells, keyloggers, and bypassing defenses. Python is my weapon, Kali is my battleground. Always pushing boundaries in the cyber realm, ethically but dangerously close.<br><br>👨‍💻 Current Focus:<br><br>Red teaming & malware simulations<br>Advanced Windows & Linux security testing<br>Building ruthless automation tools<br>🔒 Hack the system. Protect the system.
 
 
 ## 🌐 Socials:
